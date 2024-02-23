@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="org.hibernate.Criteria"/>
+    <fullyQualifiedTypeName name="org.hibernate.criterion.Restrictions"/>
+    <fullyQualifiedTypeName name="com.rays.user.UserModel"/>
+    <fullyQualifiedTypeName name="com.rays.auction.Bid"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="com.rays.auction.AuctionItem"/>
+    <fullyQualifiedTypeName name="com.rays.inheritance.Payment"/>
+    <fullyQualifiedTypeName name="com.rays.inheritance.CreditCardPayment"/>
+    <fullyQualifiedTypeName name="com.rays.inheritance.Cheque"/>
+    <fullyQualifiedTypeName name="com.rays.inheritance.Cash"/>
+    <fullyQualifiedTypeName name="org.hibernate.Query"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="com.rays.user.UserDTO"/>
+    <fullyQualifiedTypeName name="org.hibernate.CacheMode"/>
+    <fullyQualifiedTypeName name="com.rays.oneone.Address"/>
+    <fullyQualifiedTypeName name="com.rays.oneone.Employee"/>
+    <fullyQualifiedTypeName name="org.hibernate.SessionFactory"/>
+    <fullyQualifiedTypeName name="org.hibernate.cfg.Configuration"/>
+    <fullyQualifiedTypeName name="org.hibernate.Session"/>
+    <fullyQualifiedTypeName name="org.hibernate.Transaction"/>
+</qualifiedTypeNameHistroy>

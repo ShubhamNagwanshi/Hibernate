@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.rays.oneone.Testoneone&apos; to &apos;TestOneone&apos;&#x0D;&#x0A;- Original project: &apos;hibernate&apos;&#x0D;&#x0A;- Original element: &apos;com.rays.oneone.Testoneone&apos;&#x0D;&#x0A;- Renamed element: &apos;com.rays.oneone.TestOneone&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Testoneone&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.rays.oneone{Testoneone.java[Testoneone" matchStrategy="1" name="TestOneone" qualified="false" references="true" similarDeclarations="false" stamp="1706090804046" textual="false" version="1.0"/>
+</session>
